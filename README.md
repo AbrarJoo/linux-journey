@@ -29,7 +29,6 @@ All content is written in Markdown for readability and portability.
 * Markdown
 * Git
 * GitHub
-* Notion (source of notes)
 
 ---
 
@@ -44,10 +43,10 @@ All content is written in Markdown for readability and portability.
 
 ## Workflow
 
-1. Notes are written and organized in Notion
+1. Notes are written and organize
 2. Exported as Markdown files
 3. Added to a local Git repository
-4. Committed and pushed to GitHub using GitHub Desktop
+4. Committed and pushed to GitHub using Git terminal
 
 ---
 
