@@ -1,8 +1,8 @@
-# Linux Notes for Hackers
+# Linux basics for Hackers
 
 ## Overview
 
-This repository contains a **version-controlled collection of Linux notes for hackers**, focused on command-line usage, system internals, permissions, networking, and security-related concepts. The notes were originally written in **Notion** and exported to **Markdown**, then maintained on **GitHub** for long-term tracking, backup, and structured learning.
+This repository contains a **version-controlled collection of Linux basics for hackers**, focused on command-line usage, system internals, permissions, networking, and security-related concepts. The notes were originally written in **Notion** and exported to **Markdown**, then maintained on **GitHub** for long-term tracking, backup, and structured learning.
 
 This project serves as a personal cybersecurity knowledge base and a practical demonstration of Git-based documentation workflows commonly used in technical and security environments.
 
