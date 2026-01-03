@@ -1,64 +1,75 @@
-# Linux basics for Hackers
+# Linux Fundamentals for Cybersecurity
 
 ## Overview
 
-This repository contains a **version-controlled collection of Linux basics for hackers**, focused on command-line usage, system internals, permissions, networking, and security-related concepts. The notes were originally written in **Notion** and exported to **Markdown**, then maintained on **GitHub** for long-term tracking, backup, and structured learning.
+This repository contains **all essential Linux fundamentals required for cybersecurity**, along with **shell scripting using Bash**.
 
-This project serves as a personal cybersecurity knowledge base and a practical demonstration of Git-based documentation workflows commonly used in technical and security environments.
+The repository is **created and maintained by me** and includes both **theoretical notes and practical resources**, covering Linux basics as well as hands-on scripting. The notes were originally written in **Notion**, exported to **Markdown**, and are now maintained on **GitHub** for structured learning, version control, and long-term reference.
+
+This project serves as a **personal cybersecurity knowledge base** and demonstrates **real-world documentation and Git workflows** commonly used in technical and security-focused environments.
 
 ---
 
 ## Contents
 
-The notes cover topics such as:
+This repository includes:
 
 * Linux command-line fundamentals
-* File system structure and permissions
-* User and process management
-* Networking basics
-* Common Linux tools used in ethical hacking
-* Security and system administration concepts
+* Linux file system structure and permissions
+* User, group, and process management
+* Networking basics for Linux
+* Linux concepts used in cybersecurity and ethical hacking
+* **Shell scripting notes using Bash**
+* **Multiple Bash shell scripts of various types** (automation, utilities, practice scripts, etc.)
+* **A PDF document covering Linux basics**
 
-All content is written in Markdown for readability and portability.
+All notes and scripts are organized and written for clarity and long-term usability.
 
 ---
 
 ## Tech Stack
 
 * Linux
+* Bash Shell
 * Markdown
 * Git
 * GitHub
 
 ---
 
-## Why This Project
+## Why This Repository
 
-* Provides an **offline-accessible Linux reference** for cybersecurity learning
-* Uses **Git version control** to track learning progress and changes
-* Encourages clean documentation and structured note-taking
-* Demonstrates practical skills relevant to **computer science and cybersecurity**
+* Provides a **complete Linux reference for cybersecurity beginners and learners**
+* Includes both **theory and practical Bash scripting**
+* Offers **offline-accessible notes, scripts, and PDF documentation**
+* Uses **Git version control** to track learning progress
+* Demonstrates skills relevant to **Computer Science, Linux, and Cybersecurity**
 
 ---
 
 ## Workflow
 
-1. Notes are written and organize
-2. Exported as Markdown files
-3. Added to a local Git repository
-4. Committed and pushed to GitHub using Git terminal
+1. Notes are written and organized in Notion
+2. Exported as Markdown and PDF files
+3. Bash scripts are written and tested locally
+4. All content is added to a Git repository
+5. Changes are committed and pushed to GitHub using the terminal
 
 ---
 
 ## Future Improvements
 
+* Advanced Bash scripting examples
 * Automation using the Notion API
-* Regular syncing scripts
-* Improved categorization
-* GitHub Pages for web-based viewing
+* Improved categorization of scripts and notes
+* GitHub Pages for web-based documentation
 
 ---
 
 ## Disclaimer
 
-These notes are intended **for educational and ethical purposes only**. They are meant to support learning Linux and cybersecurity fundamentals, not for unauthorized or illegal activities.
+This repository is intended **strictly for educational and ethical purposes**.
+It is meant to support learning Linux, Bash scripting, and cybersecurity fundamentals and **must not be used for unauthorized or illegal activities**.
+
+---
+
